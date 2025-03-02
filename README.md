@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrluisfer/react-vite-shadcn-template/blob/main/LICENSE)
-[![React](https://img.shields.io/badge/react.js-blue.svg)](http://en.react.dev/)
+[![React](https://img.shields.io/badge/react.js-blue.svg)](http://react.dev/)
 [![Vite](https://img.shields.io/badge/vite-purple.svg)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/typescript-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-v4-blue.svg)](https://tailwindcss.com/)
