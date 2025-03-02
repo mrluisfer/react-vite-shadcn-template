@@ -1,11 +1,11 @@
 # React + TypeScript + Vite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrluisfer/react-vite-shadcn-template/blob/main/LICENSE)
-[![React](https://img.shields.io/badge/react.js-blue.svg)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/react.js-blue.svg)](http://en.react.dev/)
 [![Vite](https://img.shields.io/badge/vite-purple.svg)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/typescript-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-v4-blue.svg)](https://tailwindcss.com/)
-[![Tailwind CSS](https://img.shields.io/badge/pnpm-v8-orange.svg)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/pnpm-v8-orange.svg)](https://pnpm.io/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some Biome.js rules.
 
